@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "chrome",
+            "name": "http://localStorage.setItem('expense',JSON.stringify(e));",
+            "request": "launch",
+            "url": "http://localStorage.setItem('expense',JSON.stringify(e));"
+        }
+    ]
+}
